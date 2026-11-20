@@ -1,0 +1,93 @@
+{
+  "base_url": "https://craft-2027.github.io/",
+  "navigation": [
+    [
+      "index.html",
+      "About"
+    ],
+    [
+      "themes.html",
+      "Themes"
+    ],
+    [
+      "cfp.html",
+      "Call for papers"
+    ],
+    [
+      "timeline.html",
+      "Timeline"
+    ],
+    [
+      "speakers.html",
+      "Speakers"
+    ],
+    [
+      "organizers.html",
+      "Organizers"
+    ],
+    [
+      "committee.html",
+      "Committee"
+    ],
+    [
+      "sponsors.html",
+      "Sponsors"
+    ]
+  ],
+  "pages": [
+    {
+      "file": "index.html",
+      "label": "About",
+      "title": "CRAFT | COLING 2027 · Macau",
+      "description": "CRAFT at COLING 2027 in Macau: a workshop on curation, reproducibility, and accountability for training foundation models across modalities."
+    },
+    {
+      "file": "themes.html",
+      "label": "Themes",
+      "title": "Themes | CRAFT 2027",
+      "description": "Topics of interest for CRAFT 2027, covering curation, quality, multilingual data, agents, and real and synthetic data."
+    },
+    {
+      "file": "cfp.html",
+      "label": "Call for papers",
+      "title": "Call for papers | CRAFT 2027",
+      "description": "Submit to CRAFT 2027: paper types, page limits, author guidelines, and the workshop review process."
+    },
+    {
+      "file": "timeline.html",
+      "label": "Timeline",
+      "title": "Timeline | CRAFT 2027",
+      "description": "CRAFT 2027 important dates: paper submissions on January 5, 2027, acceptance notifications, and workshop information."
+    },
+    {
+      "file": "speakers.html",
+      "label": "Speakers",
+      "title": "Speakers | CRAFT 2027",
+      "description": "CRAFT 2027 invited speakers and talk details will be announced."
+    },
+    {
+      "file": "organizers.html",
+      "label": "Organizers",
+      "title": "Organizers | CRAFT 2027",
+      "description": "Meet the organizers of CRAFT at COLING 2027."
+    },
+    {
+      "file": "committee.html",
+      "label": "Program committee",
+      "title": "Program committee | CRAFT 2027",
+      "description": "Meet the CRAFT 2027 program committee and sign up to help review workshop submissions."
+    },
+    {
+      "file": "sponsors.html",
+      "label": "Sponsors",
+      "title": "Sponsors | CRAFT 2027",
+      "description": "Support the CRAFT 2027 workshop and accessible participation in training-data research."
+    },
+    {
+      "file": "program.html",
+      "label": "Workshop program",
+      "title": "Workshop program | CRAFT 2027",
+      "description": "The CRAFT 2027 program: talks, posters, conversations, and a panel on data disclosure."
+    }
+  ]
+}
